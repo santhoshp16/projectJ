@@ -27,10 +27,7 @@ class Data {
 }
 }
 public class DataBase {
-    public static void main(String[] args){
-        
-        
-    }
+   //comment
     public void insert(JavaBean jb){
        
         try {
